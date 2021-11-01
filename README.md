@@ -24,9 +24,9 @@ Read the part here in [English](https://dw.com/a-59652069) and [German](https://
 
 **Deforestation by decade / region and protected forest proportion** All other forest data taken from the FAO report ["Global Forest Resources Assessment" (2020)](https://www.fao.org/3/ca9825en/ca9825en.pdf), pages 13, 14, 15
 
-**Temperature anomaly** Temperature data was taken from several sources. For the *global* temperature anomaly, [NOAA's Global Land and Ocean Temperature Anomalies](https://www.ncdc.noaa.gov/cag/global/time-series) was used. 
+**Temperature anomaly** Temperature data was taken from several sources. For the *global* temperature anomaly, [NOAA's Global Land and Ocean Temperature Anomalies](https://www.ncdc.noaa.gov/cag/global/time-series) was used. For the areas which saw extreme temperature anomalies in August 2021, the data comes from the [Copernicus Climate Change Service](https://climate.copernicus.eu/new-dataset-era5-provides-free-and-detailed-information-understanding-global-climate)
 
-**Sea level rise**
+**Sea level rise** numbers come from [datasets compiled by NOAA](https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level), the United States weather agency. The original sources are researches from [Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO)](https://research.csiro.au/slrwavescoast/sea-level/) and [University of Hawaii's Sea Level Center](http://uhslc.soest.hawaii.edu/data/?fd)
 
 **Artic sea ice** The information on the extent of Artic sea ice was taken from the [National Snow and Ice Data Center / Nasa Earth Observatory](https://nsidc.org/data/seaice_index)
 
